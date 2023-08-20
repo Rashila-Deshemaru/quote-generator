@@ -10,7 +10,7 @@ body {
 
 body.dark {background-color: #292c35;}
 
-body.dark h1, body.dark p, body.dark .quote.font-quote{color: #fff;}
+body.dark h1, body.dark .quote.font-quote{color: #fff;}
 
 .container {
   width: 100%;
